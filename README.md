@@ -12,6 +12,10 @@ vue + vue-router + vuex + element
 ```
 
 
+```
+重命名build123 文件夹 build
+```
+
 ## Build Setup
 
 ``` bash
